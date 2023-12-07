@@ -12,11 +12,16 @@
 도박을 통해 푸앙이의 빚을 갚아 주세요!
 
 ## :video_game: 게임 실행
+### ver.c
 <summary>
 팀과제.sln파일을 비주얼 스튜디오로 실행한 뒤 ctrl+f5로 시작합니다. </summary>
 <summary>
 혹은 casino_rpg.exe를 실행합니다. </summary>
 
+### ver.cpp
+<summary>
+gamble_puang.sln파일을 비주얼 스튜디오로 실행한 뒤 ctrl+f5로 시작합니다. </summary>
+<br/>
 <br/>
 
 *:bangbang:윈도우 11이 아닐경우 인터페이스가 밀려 제대로 동작하지 않을 수 있습니다.*
@@ -139,6 +144,7 @@ Uigang // 딜러 // https://github.com/Uigang01
 오마주 // 도박 묵시록 다구리 // https://m.blog.naver.com/book732732/221131991553
 
 ## :wrench: 업데이트 예정 내역
-1. cpp로 코드 전면 수정
+1. ~~cpp로 코드 전면 수정~~ <<추가적인 정리작업 필요
+
 2. 오픈소스를 활용한 미니게임 추가
 3. 난이도 시스템, 저장 시스템 추가
