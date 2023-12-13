@@ -135,6 +135,13 @@ Uigang // 딜러 // https://github.com/Uigang01
 <br/>
 오마주 // 도박 묵시록 다구리 // https://m.blog.naver.com/book732732/221131991553
 
+
+<br/>
+<br/>
+오픈소스 // packman_c // https://github.com/pooyahpx/packman_c
+
+오픈소스 // SnakeGame // https://github.com/dx7er/SnakeGame
+
 ## :wrench: 업데이트 예정 내역
 1. ~~cpp로 코드 전면 수정~~ <<추가적인 정리작업 필요
 
