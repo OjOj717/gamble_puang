@@ -1,0 +1,16 @@
+﻿  blackjack.cpp
+  boonsu.cpp
+  function.cpp
+E:\gamble_puang\gamble_puang\gamble_puang_cpp\gamble_puang\function.cpp(18,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\gamble_puang\gamble_puang\gamble_puang_cpp\gamble_puang\function.cpp(18,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  game_state.cpp
+  holzzak.cpp
+  horse.cpp
+  main.cpp
+  mart.cpp
+  packman.cpp
+  poker.cpp
+  slotmachine.cpp
+  snake.cpp
+  코드를 생성하고 있습니다...
+  gamble_puang.vcxproj -> E:\gamble_puang\gamble_puang\gamble_puang_cpp\x64\Debug\gamble_puang.exe
